@@ -1,6 +1,4 @@
-# Day 3 - Simple To-Do List CLI
-# 100 Days of Code Challenge
-# Author: Your Name
+
 
 todo_list = []
 
@@ -51,4 +49,5 @@ if __name__ == "__main__":
             print("👋 Goodbye!")
             break
         else:
+
             print("⚠️ Invalid option, try again!")
